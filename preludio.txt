@@ -1,0 +1,37 @@
+Información que debe llevar toda página web que ofrece servicios:
+-qué ofrece
+-acerca de la empresa
+-contácto
+-más información
+-ubicación
+-bolsa de trabajo
+
+Elementos que debe llevar la página:
+-un cartel
+-barra de navegación pegada a la parte de arriba
+-imagen y texto en un mismo rectángulo
+-formulario
+-pié de página
+-un mapa con la ubicación
+
+Ideas para la barra de navegación:
+-No son las letras, sino el contenedor de ellas lo que es el botón:
+	-el contenedor de las letras cambia de color y añade un borde inferior de color opuesto
+	-¿tal vez los botones deberían tener el mismo tamaño..?
+
+Ideas nuevas para una página web
+-un rectángulo con una imagen y texto: la imagen a la izquierda y el texto a la derecha. Agregar 
+ un deslizador automático (carousel) en la sección de imagen para mostrar diferentes imágenes.
+
+
+Página de seguridad
+SLIDER BANNER
+-Los botones de izquierda y derecha: se hacen un poco grandes y después regresan a su tamaño 
+después de un tiempo, rápidamente. Si puedes, que expulse una onda al mismo 
+tiempo que sucede eso.
+(esta sección contiene una parte que yo considero innecesaria debido al tamaño del slider banner)
+-Deslizamiento automático si el cursor no está encima del deslizador (después de 2s).
+-Si el cursor está encima del bannerSlider, detén la función que se ejecuta cada 2s >:y ¡esto 
+ ayudará a que los botones tengan propósito! haz clic en cualquiera de ellos y la página 
+ realizará los movimientos necesarios. wwwwwww y cuando el cursor esté por encima del banner 
+ slider AHORA se ejecuta otra función cada 1s, aquella que describí al inicio.
